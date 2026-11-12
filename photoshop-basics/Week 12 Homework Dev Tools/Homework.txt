@@ -1,0 +1,14 @@
+Problem 1
+What was wrong? Checked to see if any pictures, files, or scripts were gone or had broken links.
+Which DevTool gave you the clue? Network Tab.
+What you fixed? There was no problem. I checked the file list and confirmed everything loaded properly with no errors. Nothing needed fixing.
+
+Problem 2:
+What was wrong? Checked to see if the website layout gets squished or broken on mobile.
+Which DevTool gave you the clue? Toggle device toolbar.
+What you fixed? Tried it on iPhone 16 and and iPad Mini and the page runs smoothly without any layout bugs.
+
+Problem 3:
+What was wrong? Tutorial thumbnail images had inconsistent heights and looked stretched in the grid.
+Which DevTool gave you the clue? Computing tab/box model.
+What you fixed? I used object-fit: cover in the image CSS rule. I also increased the width and heights of the images.
